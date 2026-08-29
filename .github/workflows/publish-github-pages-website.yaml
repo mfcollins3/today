@@ -29,6 +29,7 @@ jobs:
 
   publish:
     name: Publish the GitHub Pages Website
+    needs: build
     runs-on: ubuntu-latest
     environment:
       name: github-pages

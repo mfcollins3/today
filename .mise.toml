@@ -1,0 +1,5 @@
+# Copyright 2026 Michael F. Collins, III
+# See LICENSE.md for licensing terms.
+
+[settings]
+disable_tools = ["node"]

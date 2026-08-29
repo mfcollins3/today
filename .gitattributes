@@ -1,0 +1,20 @@
+# Copyright 2026 Michael F. Collins, III
+# See LICENSE.md for licensing terms.
+
+*                       text=auto
+
+*.code-workspace        text eol=lf
+*.json                  text eol=lf
+*.md                    text eol=lf
+*.mdx                   text eol=lf
+*.mjs                   text eol=lf
+*.svg                   text eol=lf -diff
+*.toml                  text eol=lf
+*.ts                    text eol=lf
+*.webp                  binary
+*.yaml                  text eol=lf
+*.yml                   text eol=lf
+
+.gitattributes          text eol=lf
+.gitignore              text eol=lf
+.node-version           text eol=lf

@@ -2,6 +2,8 @@
 
 ![Today scheduling and task tracking poster](assets/today-poster.svg)
 
+<p style="text-align: center;">Your beloved tool for making it through the workday!</p>
+
 ## Table of Contents
 
 1. [About](#about)

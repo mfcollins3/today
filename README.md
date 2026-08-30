@@ -59,12 +59,19 @@ COMING SOON!
 
 ```plain
 /                                               Root directory for the Today repository
+|-- .agents/                                    AI agent configurations and skills
+|   |-- skills/                                 AI skills that are used to help guide agents when performing tasks
+|-- .claude/                                    Claude Code configuration and skills
+|   |-- skills/                                 AI skills that are used to help guide Claude Code when performing tasks
 |-- .github/                                    GitHub Actions workflows and product metadata used by GitHub
 |   |-- workflows/                              GitHub Actions workflows for CI/CD or automations
 |       |-- publish-github-pages-website.yaml   Publishes the product documentation to the GitHub Pages website
 |-- assets/                                     Image assets used by README.md
 |   |-- today-poster.svg                        Poster image for README.md
-|-- docs/                                       Product documentation that is published to GitHub Pages
+|-- docs/                                       Technical documentation that is intended to be used by developers who are working with the source code
+|   |-- adrs/                                   Architectural Decision Record documents that document important architectural decisions about the product
+|   |   |-- README.md                           Index into the Architectural Decision Record documents
+|-- website/                                    Product documentation that is published to GitHub Pages
 |   |-- .vscode/                                Visual Studio Code customizations and launch settings
 |   |   |-- extensions.json                     List of recommended Visual Studio Code extensions for editing the product documentation
 |   |   |-- launch.json                         Instructions used by Visual Studio Code for running and debugging the website
@@ -87,6 +94,7 @@ COMING SOON!
 |-- .gitattributes                              File attributes that are used by Git when adding or updating files in the Git repository
 |-- .mise.toml                                  Mise configuration settings for developers who are using Mise
 |-- .node-version                               The version number of Node.js that is used by the Today product
+|-- CONTRIBUTING.md                             Contributing guidelines for contributing changes to the Today product
 |-- LICENSE.md                                  The license agreement and terms for using the Today product and source code legally
 |-- README.md                                   This document
 |-- today.code-workspace                        The Visual Studio Code workspace for the Today product. You should use this workspace when working with the source code in Visual Studio Code.
@@ -157,6 +165,10 @@ applications are posted to
 download them there and provide feedback in
 [GitHub Discussions](https://github.com/mfcollins3/today/discussions) or report
 bugs on [GitHub Issues](https://github.com/mfcollins3/today/issues).
+
+For information about the implementation standards for the Today product or the
+process you should follow for contributing bug fixes or new features, see the
+[contribution guidelines](CONTRIBUTONG.md).
 
 ## What's Next?
 

@@ -7,6 +7,9 @@ on:
   push:
     branches:
       - main
+    paths:
+      - 'website/**'
+      - '.github/workflows/publish-github-pages-website.yaml'
   workflow_dispatch:
 
 permissions:
@@ -24,7 +27,7 @@ jobs:
       - name: Install, build, and upload the website
         uses: withastro/action@v6
         with:
-          path: ./docs
+          path: ./website
           node-version: 26.8.1
 
   publish:

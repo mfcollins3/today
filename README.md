@@ -2,11 +2,12 @@
 
 ![Today scheduling and task tracking poster](assets/today-poster.svg)
 
-<p style="text-align: center;">Your beloved tool for making it through the workday!</p>
+<p align="center">Your beloved tool for making it through the workday!</p>
 
 ## Table of Contents
 
 1. [About](#about)
+1. [Status](#status)
 1. [Features](#features)
 1. [Tech Stack](#tech-stack)
 1. [Architecture](#architecture)
@@ -32,6 +33,10 @@ kid's activities! Throughout your day, Today will remind you of what you should
 be focusing on at any time during the day. At the end of the day, you can sit
 back and review your progress to see how much work you completed against your
 plan.
+
+## Status
+
+[![Publish Documentation to GitHub Pages](https://github.com/mfcollins3/today/actions/workflows/publish-github-pages-website.yaml/badge.svg)](https://github.com/mfcollins3/today/actions/workflows/publish-github-pages-website.yaml)
 
 ## Features
 
@@ -191,98 +196,16 @@ COMING SOON!
 
 ## Author
 
-<style>
-    .author {
-        display: flex;
-        flex-direction: row;
-        gap: 2rem;
-        align-items: center;
-    }
+<img src="https://avatars.githubusercontent.com/u/104274?v=4" alt="Michael F. Collins, III" width="200" height="200">
 
-    .profile {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        text-align: center;
-    }
+**[Michael F. Collins, III](https://github.com/mfcollins3)**
 
-    .profile img {
-        width: 200px;
-        height: 200px;
-        border-radius: 50%;
-        object-fit: cover;
-    }
-
-    .social-links ul {
-        list-style-type: none;
-        margin: 0;
-        padding: 0;
-    }
-
-    @media (max-width: 600px) {
-        .author {
-            flex-direction: column;
-            align-items: center;
-        }
-    }
-</style>
-
-<div class="author">
-    <div class="profile">
-        <a href="https://github.com/mfcollins3">
-            <img src="https://avatars.githubusercontent.com/u/104274?v=4" alt="Michael F. Collins, III">
-        </a>
-        <p>
-            <a href="https://github.com/mfcollins3"><strong>Michael F. Collins, III</strong></a>
-        </p>
-    </div>
-    <div class="social-links">
-        <ul>
-            <li>
-                <a href="https://michaelfcollins3.dev" alt="Visit my website">
-                    <img src="https://img.shields.io/badge/Website-michaelfcollins3.dev-blue?style=social">
-                </a>
-            </li>
-            <li>
-                <a href="mailto:mfcollins3@me.com" alt="Send me an email">
-                    <img src="https://img.shields.io/badge/Email-mfcollins3@me.com-blue?style=social">
-                </a>
-            </li>
-            <li>
-                <a href="https://github.com/mfcollins3" alt="@mfcollins3 at GitHub">
-                    <img src="https://img.shields.io/badge/GitHub-@mfcollins3-blue?style=social&logo=github">
-                </a>
-            </li>
-            <li>
-                <a href="https://www.linkedin.com/in/michaelfcollins3/" alt="Connect with me on LinkedIn">
-                    <img src="https://img.shields.io/badge/LinkedIn-michaelfcollins3-blue?style=social">
-                </a>
-            </li>
-            <li>
-                <a href="https://www.facebook.com/mfcollins3/" alt="Friend me on Facebook">
-                    <img src="https://img.shields.io/badge/Facebook-mfcollins3-blue?style=social&logo=facebook">
-                </a>
-            </li>
-            <li>
-                <a href="https://www.instagram.com/mfcollins3/" alt="Follow me in Instagram">
-                    <img src="https://img.shields.io/badge/Instagram-mfcollins3-blue?style=social&logo=instagram">
-                </a>
-            </li>
-            <li>
-                <a href="https://www.threads.com/@mfcollins3" alt="Follow me on Threads">
-                    <img src="https://img.shields.io/badge/Threads-@mfcollins3-blue?style=social&logo=threads">
-                </a>
-            </li>
-            <li>
-                <a href="https://bsky.app/profile/mfcollins3.bsky.social" alt="Follow me on Bluesky">
-                    <img src="https://img.shields.io/badge/X-@mfcollins3-blue?style=social&logo=X">
-                </a>
-            </li>
-            <li>
-                <a href="https://x.com/mfcollins3" alt="Follow me on X">
-                    <img src="https://img.shields.io/badge/bluesky-mfcollins3.bsky.social-blue?style=social&logo=bluesky">
-                </a>
-            </li>
-        </ul>
-    </div>
-</div>
+- [![Visit my website](https://img.shields.io/badge/Website-michaelfcollins3.dev-blue?style=social)](https://michaelfcollins3.dev)
+- [![Send me an email](https://img.shields.io/badge/Website-michaelfcollins3.dev-blue?style=social)](mailto:mfcollins3@me.com)
+- [![Find my projects on GitHub](https://img.shields.io/badge/GitHub-@mfcollins3-blue?style=social&logo=github)](https://github.com/mfcollins3)
+- [![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-michaelfcollins3-blue?style=social)](https://www.linkedin.com/in/michaelfcollins3/)
+- [![Friend me on Facebook](https://img.shields.io/badge/Facebook-mfcollins3-blue?style=social&logo=facebook)](https://www.facebook.com/mfcollins3/)
+- [![Follow me on Instagram](https://img.shields.io/badge/Instagram-mfcollins3-blue?style=social&logo=instagram)](https://www.instagram.com/mfcollins3/)
+- [![Follow me on Threads](https://img.shields.io/badge/Threads-@mfcollins3-blue?style=social&logo=threads)](https://www.threads.com/@mfcollins3)
+- [![Follow me on Bluesky](https://img.shields.io/badge/bluesky-mfcollins3.bsky.social-blue?style=social&logo=bluesky)](https://bsky.app/profile/mfcollins3.bsky.social)
+- [![Follow me on X](https://img.shields.io/badge/X-@mfcollins3-blue?style=social&logo=X)](https://x.com/mfcollins3)

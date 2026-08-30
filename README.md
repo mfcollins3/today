@@ -107,8 +107,14 @@ COMING SOON!
 Before working with the source code for the Today product, please ensure that
 you have the following software installed on your development machine.
 
+#### General prerequisites
+
 - [Git](https://git-scm.com)
 - [GitHub CLI](https://cli.github.com)
+
+#### Prerequisites for Apple computer and device development
+
+- [mise-en-place](https://mise.jdx.dev/getting-started.html)
 
 ### 1. Clone the repository from GitHub
 

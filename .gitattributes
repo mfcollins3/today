@@ -9,6 +9,7 @@
 *.mdx                   text eol=lf
 *.mjs                   text eol=lf
 *.svg                   text eol=lf -diff
+*.swift                 text eol=lf
 *.toml                  text eol=lf
 *.ts                    text eol=lf
 *.webp                  binary

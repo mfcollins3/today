@@ -1,0 +1,7 @@
+# Copyright 2026 Michael F. Collins, III
+# See LICENSE.md for licensing terms
+
+Derived/
+Tuist/.build/
+*.xcodeproj/
+*.xcworkspace/

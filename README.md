@@ -230,7 +230,7 @@ COMING SOON!
 <div class="author">
     <div class="profile">
         <a href="https://github.com/mfcollins3">
-            <img src="https://avatars.githubusercontent.com/u/104274?v=4" alt="Michael F. Collins, III">
+            <img src="https://avatars.githubusercontent.com/u/104274?v=4" alt="Michael F. Collins, III" style="width:200px;height:200px;border-radius:50%;object-fit:cover;">
         </a>
         <p>
             <a href="https://github.com/mfcollins3"><strong>Michael F. Collins, III</strong></a>

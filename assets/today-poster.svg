@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1600px" height="900px" viewBox="0 0 1600 900" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>today-poster</title>
+    <defs>
+        <linearGradient x1="7.4375%" y1="36.1484375%" x2="91.75%" y2="64.0625%" id="linearGradient-1">
+            <stop stop-color="#FFF7DF" offset="0%"></stop>
+            <stop stop-color="#D8EFF1" offset="44%"></stop>
+            <stop stop-color="#273B4A" offset="100%"></stop>
+        </linearGradient>
+        <pattern id="pattern-2" width="50" height="50" x="-50" y="-50" patternUnits="userSpaceOnUse">
+            <use xlink:href="#image-3"></use>
+        </pattern>
+        <image id="image-3" width="50" height="50" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAMqADAAQAAAABAAAAMgAAAAB1y6+rAAABG0lEQVRoBe1XWwrDMAzLUXbLHb+LS1McNwR9GOQODUbjRtiSHw1pR2uftvnZfv9/q+M2Elp7i4htkiViUWNKUihBu/jUuKnOssmh/iRCM5F7PtmQlT/srO0Xhb9fnfsI6A1ib1WrhYl8g4htMSRiUVpKUihBu/jUuKnOssmh/iRCM5H7adfJHjuKPWORz2SzyVn8iVAwIH4QqDsujStNDk2eRIT+NZOSFErQbLESUaWdrj7Wnd0XhN2enstjzSZn8R+k3AuIHwTqTkvjSpNDkycRrnfHkpIUSlC0TVCcRIweck9WUnRnd0U4l6xKjLiRz2QPkD2njWCUxpUm1xMJ8YNAqDMWTiLC3JhJSQolaLZYiajSTlcf/8Wd/Qe3wZ32yy34pgAAAABJRU5ErkJggg=="></image>
+        <linearGradient x1="2.16346154%" y1="39.5037188%" x2="94.9519231%" y2="61.0445944%" id="linearGradient-4">
+            <stop stop-color="#FFFCF2" offset="0%"></stop>
+            <stop stop-color="#F3F7F0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="57.9143389%" y1="56.9910427%" x2="228.49162%" y2="87.5040313%" id="linearGradient-5">
+            <stop stop-color="#F2A154" offset="0%"></stop>
+            <stop stop-color="#3E9E9C" offset="47%"></stop>
+            <stop stop-color="#2F5D7C" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="today-poster" stroke="none" fill="none" fill-rule="evenodd" stroke-width="1">
+        <g id="Today-scheduling-and-task-tracking-poster">
+            <rect id="Rectangle" fill="url(#linearGradient-1)" fill-rule="nonzero" x="0" y="0" width="1600" height="900"></rect>
+            <rect id="Rectangle" fill="url(#pattern-2)" fill-rule="nonzero" opacity="0.65" x="0" y="0" width="1600" height="900"></rect>
+            <circle id="Oval" fill="#F4B860" fill-rule="nonzero" opacity="0.92" cx="254" cy="167" r="72"></circle>
+            <circle id="Oval" stroke-opacity="0.26" stroke="#F4B860" stroke-width="22" cx="250" cy="167" r="102"></circle>
+            <path d="M1276,160 C1348,144 1421,166 1477,219 C1404,225 1334,262 1288,318 C1282,264 1275,210 1276,160 Z" id="Path" fill="#A7CBD0" fill-rule="nonzero" opacity="0.65"></path>
+            <path d="M112,732 C206,677 288,668 372,704 C481,750 545,740 633,686 C745,616 842,639 914,705 C1007,791 1121,788 1216,725 C1288,678 1375,678 1491,737 L1491,900 L112,900 L112,732 Z" id="Path" fill="#112E37" fill-rule="nonzero" opacity="0.16"></path>
+            <g id="Group">
+                <rect id="Rectangle" fill="url(#linearGradient-4)" fill-rule="nonzero" x="176" y="150" width="1248" height="610" rx="32"></rect>
+                <rect id="Rectangle" stroke="#FFFFFF" stroke-width="2" opacity="0.84" x="176" y="150" width="1248" height="610" rx="32"></rect>
+            </g>
+            <text id="Today" fill="#172A32" fill-rule="nonzero" font-family="Georgia-Bold, Georgia" font-size="86" font-weight="bold">
+                <tspan x="236" y="255">Today</tspan>
+            </text>
+            <text id="Plan-the-day.-Move-through-the-work.-Finish-clear." fill="#42606B" fill-rule="nonzero" font-family="Verdana" font-size="25" font-weight="normal">
+                <tspan x="241" y="328">Plan the day. Move through the work. Finish clear.</tspan>
+            </text>
+            <g id="Group" transform="translate(230, 384)">
+                <rect id="Rectangle" stroke="#D5E1DC" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="384" height="322" rx="18"></rect>
+                <text id="Morning-schedule" fill="#29434D" fill-rule="nonzero" font-family="Verdana-Bold, Verdana" font-size="20" font-weight="bold">
+                    <tspan x="28" y="45">Morning schedule</tspan>
+                </text>
+                <text id="No-conflicts" fill="#5C7178" fill-rule="nonzero" font-family="Verdana" font-size="17" font-weight="normal">
+                    <tspan x="275" y="45">No conflicts</tspan>
+                </text>
+                <line x1="84" y1="76" x2="84" y2="280" id="Path" stroke="#D6E0DD" stroke-width="2"></line>
+                <line x1="84" y1="94" x2="348" y2="94" id="Path" stroke="#ECF1EF" stroke-width="2"></line>
+                <line x1="84" y1="150" x2="348" y2="150" id="Path" stroke="#ECF1EF" stroke-width="2"></line>
+                <line x1="84" y1="206" x2="348" y2="206" id="Path" stroke="#ECF1EF" stroke-width="2"></line>
+                <line x1="84" y1="262" x2="348" y2="262" id="Path" stroke="#ECF1EF" stroke-width="2"></line>
+                <text id="8-AM" fill="#6C7B80" fill-rule="nonzero" font-family="Verdana" font-size="16" font-weight="normal">
+                    <tspan x="27" y="99">8 AM</tspan>
+                </text>
+                <text id="9-AM" fill="#6C7B80" fill-rule="nonzero" font-family="Verdana" font-size="16" font-weight="normal">
+                    <tspan x="27" y="155">9 AM</tspan>
+                </text>
+                <text id="10-AM" fill="#6C7B80" fill-rule="nonzero" font-family="Verdana" font-size="16" font-weight="normal">
+                    <tspan x="16" y="211">10 AM</tspan>
+                </text>
+                <text id="11-AM" fill="#6C7B80" fill-rule="nonzero" font-family="Helvetica" font-size="16" font-weight="normal">
+                    <tspan x="16" y="267">11 AM</tspan>
+                </text>
+                <rect id="Rectangle" fill="#F8D88F" fill-rule="nonzero" x="112" y="86" width="202" height="49" rx="12"></rect>
+                <text id="Focus-block" fill="#14313A" fill-rule="nonzero" font-family="Verdana-Bold, Verdana" font-size="21" font-weight="bold">
+                    <tspan x="130" y="111">Focus block</tspan>
+                </text>
+                <text id="8:00-9:00" fill="#31545E" fill-rule="nonzero" font-family="Verdana" font-size="15" font-weight="normal">
+                    <tspan x="130" y="128">8:00-9:00</tspan>
+                </text>
+                <rect id="Rectangle" fill="#B5D9CF" fill-rule="nonzero" x="112" y="143" width="154" height="49" rx="12"></rect>
+                <text id="Team-sync" fill="#14313A" fill-rule="nonzero" font-family="Verdana-Bold, Verdana" font-size="21" font-weight="bold">
+                    <tspan x="130" y="168">Team sync</tspan>
+                </text>
+                <text id="9:15-10:00" fill="#31545E" fill-rule="nonzero" font-family="Verdana" font-size="15" font-weight="normal">
+                    <tspan x="130" y="183">9:15-10:00</tspan>
+                </text>
+                <rect id="Rectangle" fill="#C7D8F2" fill-rule="nonzero" x="112" y="199" width="226" height="65" rx="12"></rect>
+                <text id="Build-tasks" fill="#14313A" fill-rule="nonzero" font-family="Verdana-Bold, Verdana" font-size="21" font-weight="bold">
+                    <tspan x="130" y="228">Build tasks</tspan>
+                </text>
+                <text id="10:15-11:30" fill="#31545E" fill-rule="nonzero" font-family="Verdana" font-size="15" font-weight="normal">
+                    <tspan x="130" y="246">10:15-11:30</tspan>
+                </text>
+            </g>
+            <g id="Group" transform="translate(650, 408)">
+                <path d="M21.78,157.74 C58.74,85.14 108.9,51.48 171.6,56.76 C228.36,62.04 251.46,102.3 298.32,92.4 C333.96,85.14 357.72,55.44 376.2,19.14" id="Path" stroke="url(#linearGradient-5)" stroke-width="10.56" stroke-linecap="round"></path>
+                <path d="M21.12,157.74 C58.74,85.14 108.9,51.48 171.6,56.76 C228.36,62.04 251.46,102.3 298.32,92.4 C333.96,85.14 357.72,55.44 376.2,19.14" id="Path" stroke-opacity="0.35" stroke="#FFFFFF" stroke-width="3.3" stroke-linecap="round"></path>
+                <circle id="Oval" stroke="#FFFFFF" stroke-width="4.62" fill="#F2A154" fill-rule="nonzero" cx="21.78" cy="157.74" r="20.46"></circle>
+                <circle id="Oval" stroke="#FFFFFF" stroke-width="4.62" fill="#3E9E9C" fill-rule="nonzero" cx="171.6" cy="56.76" r="20.46"></circle>
+                <circle id="Oval" stroke="#FFFFFF" stroke-width="4.62" fill="#2F5D7C" fill-rule="nonzero" cx="376.2" cy="19.14" r="20.46"></circle>
+                <text id="Morning" fill="#29434D" fill-rule="nonzero" font-family="Verdana-Bold, Verdana" font-size="20" font-weight="bold">
+                    <tspan x="0" y="199.12">Morning</tspan>
+                </text>
+                <text id="Midday" fill="#29434D" fill-rule="nonzero" font-family="Verdana-Bold, Verdana" font-size="20" font-weight="bold">
+                    <tspan x="138.6" y="33.46">Midday</tspan>
+                </text>
+                <text id="Done" fill="#29434D" fill-rule="nonzero" font-family="Verdana-Bold, Verdana" font-size="20" font-weight="bold">
+                    <tspan x="290.52" y="20.82">Done</tspan>
+                </text>
+                <g transform="translate(62.7, 117.48)">
+                    <rect id="Rectangle" stroke="#D4E0DD" stroke-width="1.32" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="128" height="35.64" rx="17.8199997"></rect>
+                    <circle id="Oval" stroke="#3E9E6D" stroke-width="1.98" fill="#E8F4EF" fill-rule="nonzero" cx="20.46" cy="17.82" r="9.24"></circle>
+                    <polyline id="Path" stroke="#2F8C61" stroke-width="2.64" stroke-linecap="round" stroke-linejoin="round" points="15.18 17.82 19.14 21.78 26.4 13.2"></polyline>
+                    <text id="Draft-sent" fill="#5C7178" fill-rule="nonzero" font-family="Verdana" font-size="15" font-weight="normal">
+                        <tspan x="37.62" y="23.86">Draft sent</tspan>
+                    </text>
+                </g>
+                <g transform="translate(213.18, 116.82)">
+                    <rect id="Rectangle" stroke="#D4E0DD" stroke-width="1.32" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="142" height="35.64" rx="17.8199997"></rect>
+                    <circle id="Oval" stroke="#3E9E6D" stroke-width="1.98" fill="#E8F4EF" fill-rule="nonzero" cx="20.46" cy="17.82" r="9.24"></circle>
+                    <polyline id="Path" stroke="#2F8C61" stroke-width="2.64" stroke-linecap="round" stroke-linejoin="round" points="15.18 17.82 19.14 21.78 26.4 13.2"></polyline>
+                    <text id="Review-done" fill="#5C7178" fill-rule="nonzero" font-family="Verdana" font-size="15" font-weight="normal">
+                        <tspan x="37.62" y="22.86">Review done</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Group" transform="translate(1090, 384)">
+                <rect id="Rectangle" stroke="#D5E1DC" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="292" height="322" rx="18"></rect>
+                <text id="End-of-day" fill="#29434D" fill-rule="nonzero" font-family="Verdana-Bold, Verdana" font-size="21" font-weight="bold">
+                    <tspan x="28" y="45">End of day</tspan>
+                </text>
+                <rect id="Rectangle" fill="#DDE8E3" fill-rule="nonzero" x="28" y="72" width="236" height="5" rx="2.5"></rect>
+                <rect id="Rectangle" fill="#3E9E6D" fill-rule="nonzero" x="28" y="72" width="236" height="5" rx="2.5"></rect>
+                <g transform="translate(28, 106)">
+                    <circle id="Oval" stroke="#3E9E6D" stroke-width="3" fill="#E8F4EF" fill-rule="nonzero" cx="18" cy="18" r="15"></circle>
+                    <polyline id="Path" stroke="#2F8C61" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="10 18 16 24 27 11"></polyline>
+                    <text id="Plan-roadmap" fill="#18313A" fill-rule="nonzero" font-family="Verdana" font-size="21" font-weight="normal" text-decoration="line-through">
+                        <tspan x="49" y="26">Plan roadmap</tspan>
+                    </text>
+                </g>
+                <g transform="translate(28, 158)">
+                    <circle id="Oval" stroke="#3E9E6D" stroke-width="3" fill="#E8F4EF" fill-rule="nonzero" cx="18" cy="18" r="15"></circle>
+                    <polyline id="Path" stroke="#2F8C61" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="10 18 16 24 27 11"></polyline>
+                    <text id="Meet-team" fill="#18313A" fill-rule="nonzero" font-family="Verdana" font-size="21" font-weight="normal" text-decoration="line-through">
+                        <tspan x="49" y="26">Meet team</tspan>
+                    </text>
+                </g>
+                <g transform="translate(28, 210)">
+                    <circle id="Oval" stroke="#3E9E6D" stroke-width="3" fill="#E8F4EF" fill-rule="nonzero" cx="18" cy="18" r="15"></circle>
+                    <polyline id="Path" stroke="#2F8C61" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="10 18 16 24 27 11"></polyline>
+                    <text id="Ship-update" fill="#18313A" fill-rule="nonzero" font-family="Verdana" font-size="21" font-weight="normal" text-decoration="line-through">
+                        <tspan x="49" y="26">Ship update</tspan>
+                    </text>
+                </g>
+                <g transform="translate(28, 262)">
+                    <circle id="Oval" stroke="#3E9E6D" stroke-width="3" fill="#E8F4EF" fill-rule="nonzero" cx="18" cy="18" r="15"></circle>
+                    <polyline id="Path" stroke="#2F8C61" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="10 18 16 24 27 11"></polyline>
+                    <text id="Wrap-day" fill="#18313A" fill-rule="nonzero" font-family="Verdana" font-size="21" font-weight="normal" text-decoration="line-through">
+                        <tspan x="49" y="26">Wrap day</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Group" transform="translate(1234, 242)" fill-rule="nonzero">
+                <circle id="Oval" fill="#F4B860" cx="0" cy="0" r="10"></circle>
+                <circle id="Oval" fill="#3E9E9C" cx="40" cy="0" r="10"></circle>
+                <circle id="Oval" fill="#2F5D7C" cx="80" cy="0" r="10"></circle>
+            </g>
+            <g id="Group" transform="translate(703, 638)">
+                <text id="8-AM" fill="#5C7178" fill-rule="nonzero" font-family="Verdana" font-size="16" font-weight="normal">
+                    <tspan x="9" y="35">8 AM</tspan>
+                </text>
+                <text id="12-PM" fill="#5C7178" fill-rule="nonzero" font-family="Verdana" font-size="16" font-weight="normal">
+                    <tspan x="120" y="35">12 PM</tspan>
+                </text>
+                <text id="5-PM" fill="#5C7178" fill-rule="nonzero" font-family="Verdana" font-size="16" font-weight="normal">
+                    <tspan x="240" y="35">5 PM</tspan>
+                </text>
+                <line x1="3" y1="9" x2="290" y2="9" id="Path" stroke="#C7D6D2" stroke-width="4" stroke-linecap="round"></line>
+                <circle id="Oval" fill="#F2A154" fill-rule="nonzero" cx="9" cy="9" r="9"></circle>
+                <circle id="Oval" fill="#3E9E9C" fill-rule="nonzero" cx="137" cy="9" r="9"></circle>
+                <circle id="Oval" fill="#2F5D7C" fill-rule="nonzero" cx="282" cy="9" r="9"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
